@@ -18,7 +18,7 @@ The REST emitter is a thin wrapper on top of the `requests` module and offers a 
 ### Installation
 
 ```console
-pip install -U `acryl-datahub[datahub-rest]`
+pip install -U 'acryl-datahub[datahub-rest]'
 ```
 
 ### Example Usage
